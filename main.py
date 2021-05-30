@@ -24,6 +24,7 @@ print("LINEAR REGRESSION INFORMATION: ")
 print("Slope: %f" % slope)
 print("Y-Intercept: %f" % intercept)
 print("R-value: %f" % r); 
+print("P-Value: %f" % p)
 print("Standard Error: %f" % error)
 
 def calculateYCoor(x): 
